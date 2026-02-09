@@ -1,10 +1,26 @@
-# Password Generator
+Projektname: Passwort-Generator (Python)
 
-Dieses Projekt ist ein einfacher Passwortgenerator in Python.
+Beschreibung:
+Dieses Projekt ist ein einfacher Passwort-Generator in Python.
+Das Programm erstellt zufällige Passwörter basierend auf den
+Einstellungen des Benutzers.
 
 Funktionen:
-- Erzeugt zufällige Passwörter mit Buchstaben, Zahlen und Sonderzeichen.
-- Anpassbare Passwortlänge.
-- Klarer und leicht verständlicher Code zum Lernen und Verbessern.
+- Generierung von Passwörtern mit Buchstaben, Zahlen und Sonderzeichen
+- Auswahl der Passwortlänge
+- Zufällige Kombination der Zeichen
+- Übersichtlicher und leicht verständlicher Code
 
-Verwendete Technologien: Python 3, random, string
+Technologien:
+- Python 3
+- random
+- string
+
+Ziel des Projekts:
+Ziel dieses Projekts war es, den Umgang mit Zufallsfunktionen
+in Python zu üben und ein einfaches, praxisnahes Programm zu erstellen.
+
+Was ich gelernt habe:
+- Arbeiten mit Modulen (random, string)
+- Zufällige Datengenerierung
+- Strukturierter und verständlicher Python-Code
